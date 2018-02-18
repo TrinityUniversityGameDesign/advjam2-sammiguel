@@ -79,3 +79,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+.vs/advjam2-sammiguel/v15/Server/sqlite3/db.lock
+.vs/advjam2-sammiguel/v15/Server/sqlite3/storage.ide
+.vs/advjam2-sammiguel/v15/Server/sqlite3/storage.ide-shm
+.vs/advjam2-sammiguel/v15/Server/sqlite3/storage.ide-wal
